@@ -63,4 +63,4 @@ $ yarn start
 
 Made with 🖤&nbsp; by Wilson Carvalho
 
-👋 [See my linkedin](https://www.linkedin.com/in/dev-wilson/)
+👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/dev-wilson/)
